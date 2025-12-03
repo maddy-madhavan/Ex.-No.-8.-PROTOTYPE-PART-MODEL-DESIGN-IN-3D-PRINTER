@@ -50,8 +50,8 @@
 <img width="1035" height="536" alt="image" src="https://github.com/user-attachments/assets/0c108893-f4c7-4345-9c6b-207f6dfdeb34" />
 
 
-### Name:Naneshvaran C
-### Register Number: 212224110038
+### Name:madhavan k
+### Register Number: 212224220054
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
